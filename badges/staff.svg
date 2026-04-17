@@ -1,14 +1,14 @@
 <svg width="512" height="512" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
   <!-- Shield -->
   <path d="M12 2L19 5V11C19 15.5 16 19 12 21C8 19 5 15.5 5 11V5L12 2Z"
-        fill="#2F3136"
-        stroke="#8EA1E1"
-        stroke-width="1.5"/>
+        fill="#2F3136" stroke="#7AA2FF" stroke-width="1.5"/>
 
-  <!-- Checkmark -->
-  <path d="M9.5 12.5L11.5 14.5L15 10.5"
-        stroke="#8EA1E1"
-        stroke-width="1.8"
-        stroke-linecap="round"
-        stroke-linejoin="round"/>
+  <!-- lock body -->
+  <rect x="9" y="12" width="6" height="4" rx="1"
+        stroke="#7AA2FF" stroke-width="1.5"/>
+
+  <!-- lock arc -->
+  <path d="M10 12V10.8C10 9.5 10.8 8.5 12 8.5C13.2 8.5 14 9.5 14 10.8V12"
+        stroke="#7AA2FF" stroke-width="1.5"
+        stroke-linecap="round"/>
 </svg>
