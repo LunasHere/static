@@ -1,14 +1,22 @@
-<svg width="512" height="512" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-  <!-- Shield -->
-  <path d="M12 2L19 5V11C19 15.5 16 19 12 21C8 19 5 15.5 5 11V5L12 2Z"
-        fill="#2F3136" stroke="#A78BFA" stroke-width="1.5"/>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
 
-  <!-- Handshake (minimal abstract) -->
-  <path d="M9 12L11 10L13 12L15 10"
-        stroke="#A78BFA" stroke-width="1.6"
-        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Larger perfect hexagon -->
+  <path d="
+    M256 16
+    L462.3 136
+    L462.3 376
+    L256 496
+    L49.7 376
+    L49.7 136
+    Z"
+    fill="#AE58F1"/>
 
-  <path d="M9 12L11 14L13 12L15 14"
-        stroke="#A78BFA" stroke-width="1.6"
-        stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Checkmark -->
+  <path d="M180 260L235 315L340 190"
+        fill="none"
+        stroke="#FFFFFF"
+        stroke-width="42"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
 </svg>
